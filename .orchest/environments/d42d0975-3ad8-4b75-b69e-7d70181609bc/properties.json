@@ -1,0 +1,1 @@
+{"base_image": "orchest/base-kernel-py", "gpu_support": false, "language": "python", "uuid": "d42d0975-3ad8-4b75-b69e-7d70181609bc", "name": "Python 3"}
